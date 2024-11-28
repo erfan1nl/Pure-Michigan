@@ -70,7 +70,7 @@ p {
 
 .text-container {
   flex: 3fr;
-  text-align: center;
+  text-align: left;
   margin-left: 2rem;
   width: 400px;
   justify-self: center;
