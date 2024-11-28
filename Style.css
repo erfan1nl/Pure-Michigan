@@ -12,11 +12,10 @@ body {
 .navbar {
   background-image: url(nav-background.jpg);
   background-size: cover;
-
   display: flex;
   flex-direction: column;
   justify-content: end;
-  align-items: end;
+  align-items: center;
   height: 120px;
   background-color: rgb(138, 138, 138);
   margin-bottom: 5rem;
@@ -45,6 +44,13 @@ li {
   font-size: 0.8rem;
   list-style-type: none;
   padding: 0 4rem;
+}
+
+a {
+  color: #fc7753;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 800;
 }
 
 li:hover {
